@@ -1,6 +1,6 @@
-# Welcome to the top lane
+# Kitch's Webpage
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+A collection of projects, interests and anything else.
 
 ## Commands
 

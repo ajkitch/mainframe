@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: Kitch 
+theme:
+  name: bootstrap386
+nav: 
+  - index.md
+  - topLaneGuide.md
