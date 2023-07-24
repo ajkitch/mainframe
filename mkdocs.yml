@@ -1,6 +1,6 @@
 site_name: Kitch 
 theme:
-  name: bootstrap386
+  name: simple-blog
 nav: 
   - index.md
   - topLaneGuide.md
