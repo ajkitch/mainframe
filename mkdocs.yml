@@ -2,5 +2,6 @@ site_name: Kitch
 theme:
   name: simple-blog
 nav: 
-  - index.md
-  - topLaneGuide.md
+  - Dezzy.Net: index.md
+  - Top Lane Guide: topLaneGuide.md
+  - Required Viewing: requiredViewing.md

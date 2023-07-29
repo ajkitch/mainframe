@@ -1,5 +1,3 @@
-# Kitch's Webpage
-
 A collection of projects, interests and anything else.
 
 ## Commands
